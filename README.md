@@ -14,7 +14,7 @@ The dashboard supports data-driven road-safety planning by helping users identif
 
 > Add a dashboard screenshot here after uploading your image to GitHub.
 
-<img width="958" height="518" alt="image" src="https://github.com/user-attachments/assets/28e42f5b-e194-48a3-b2a3-2eb2aeb94b91" />
+<img width="719" height="399" alt="image" src="https://github.com/user-attachments/assets/b2479754-ba67-42af-9022-ee86330400a7" />
 
 ```
 
